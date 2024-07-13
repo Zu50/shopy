@@ -1,5 +1,5 @@
 
- #contributed in its DSM  
+ # It's been honor for me to be contributed in its DSM  
  # 🛍 Next Shopify Storefront
 
 ## take a look here [Run Demo](https://next-shopify-storefront.vercel.app/products)
